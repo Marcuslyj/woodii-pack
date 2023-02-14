@@ -1,0 +1,27 @@
+{
+  "name": "woodii-pack",
+  "version": "1.0.0",
+  "description": "webpack实现",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcuslyj/woodii-pack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcuslyj/woodii-pack/issues"
+  },
+  "homepage": "https://github.com/Marcuslyj/woodii-pack#readme",
+  "dependencies": {
+    "@babel/generator": "^7.20.14",
+    "@babel/parser": "^7.20.15",
+    "@babel/traverse": "^7.20.13",
+    "@babel/types": "^7.20.7",
+    "tapable": "^2.2.1"
+  }
+}
